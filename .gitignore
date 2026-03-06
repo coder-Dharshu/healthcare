@@ -1,0 +1,15 @@
+# Backend
+node_modules/
+.env
+backend/node_modules/
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Misc
+*.log
+.DS_Store
+test-groq.js
